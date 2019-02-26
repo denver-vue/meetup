@@ -1,5 +1,7 @@
 ## Denver Vue.js Meetup
 
+* February 25th 2019
+  * [News/Links/Notes](news/02_25_2019.md)
 * February 4th 2019
   * [News/Links/Notes](news/02_04_2019.md)
 * February 26th 2018
