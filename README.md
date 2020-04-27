@@ -1,5 +1,9 @@
 ## Denver Vue.js Meetup
 
+* April 27th 2020
+  * [News/Links/Notes](news/2020_04_27.md)
+* March 23rd 2020
+  * [News/Links/Notes](news/2020_03_23.md)
 * February 24th 2020
   * [News/Links/Notes](news/2020_02_24.md)
 * January 27th 2020
