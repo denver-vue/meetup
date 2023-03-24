@@ -2,6 +2,8 @@
 
 ### 2023 Meetups
 
+* March 23rd 2023
+  * [News/Links/Notes](news/2023_03_23.md)
 * February 23rd 2023
   * [News/Links/Notes](news/2023_02_23.md)
 
